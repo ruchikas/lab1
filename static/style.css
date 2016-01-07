@@ -65,3 +65,12 @@ li a {
 li a:hover {
     background-color: #e5f9ff;
 }
+
+.projectList {
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+.contact {
+	margin: 50px;
+}
